@@ -42,5 +42,5 @@ nnoremap ; :
 
 nnoremap <leader>w :w<cr>
 nnoremap <leader>q :q<cr>
-nnoremap <leader><F2> : ts=2 sw=2
-nnoremap <leader><F4> : ts=4 sw=4
+nnoremap <leader><F2> : set ts=2 sw=2
+nnoremap <leader><F4> : set ts=4 sw=4
